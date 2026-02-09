@@ -1,10 +1,1 @@
-### Hi there!
-
-🖥️ I'm a cse major in her first year and i enjoy coding.
-
-🌱 I’m currently learning C and python
-
-👧🏽 Pronouns: she/her
-
-⚡ Fun fact: I enjoy art related activites (drawing, poetry etc)
-
+Hi, I’m Liz Mary Abraham. I’m a Computer Science undergraduate interested in building practical systems that involve backend logic, data processing, and real-world problem solving. I learn primarily through hands-on projects and sometimes hackathons, and I enjoy exploring how software is applied in industry settings. Recently, I’ve been developing projects related to transaction processing and personal finance, and I’m also exploring the payments and financial technology domain. I’m continuously working on improving my technical skills and gaining practical industry experience through projects and internships.
